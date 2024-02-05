@@ -8311,7 +8311,7 @@ h1, h2, h3, h4, h5,
         width: 14px;
         height: 14px;
         content: '';
-        border: 1px solid #4d4d4d;
+        border: 1px solid #000000!important;
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
@@ -8321,7 +8321,7 @@ h1, h2, h3, h4, h5,
       .owl-carousel .owl-dots .owl-dot.active {
         background: #b3b3b3; }
         .owl-carousel .owl-dots .owl-dot.active:after {
-          border-color: #fff; }
+          border-color: #c5cf31!important; }
   .owl-carousel.home-slider {
     position: relative;
     height: 700px;
@@ -9155,7 +9155,7 @@ textarea.form-control {
       border-radius: 50%;
       background: rgba(255, 255, 255, 0.5); }
       .testimony-section .owl-dots .owl-dot.active {
-        background: #fff; }
+        background: #c4cf33; }
 
 .testimony-wrap {
   display: block;
